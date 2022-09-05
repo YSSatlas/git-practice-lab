@@ -14,7 +14,7 @@ Describe que hacen los siguientes comandos de git, escribe su descripcion al fre
 
 `git add`: Añade un archivo al directorio de preparación.
 
-`git commit`: se usa para confirmar los cambios hechosque estan en el directorio de preparación. Se acompaña de una etiqueta para identificar qué cambios fueron hechos (una etiqueta) .
+`git commit`: se usa para confirmar los cambios hechosque estan en el directorio de preparación. Se acompaña de una etiqueta para identificar qué cambios fueron hechos.
 
 `git push`: sirve para solicitar la subida con los cambios al directorio remoto.
 
