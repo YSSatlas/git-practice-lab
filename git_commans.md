@@ -18,4 +18,4 @@ Describe que hacen los siguientes comandos de git, escribe su descripcion al fre
 
 `git push`: sirve para solicitar la subida con los cambios al directorio remoto.
 
-`git merge` mezcla dos ramas (branch) se agrega la ID de la rama a en la que se trabaja. 
+`git merge`: mezcla dos ramas (branch) se agrega la ID de la rama a en la que se trabaja. 
